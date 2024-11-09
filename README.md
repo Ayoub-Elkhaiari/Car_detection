@@ -42,6 +42,8 @@ pip install tensorflow numpy pandas pillow matplotlib scipy
 ## Usage
 
 The main prediction function can be used as follows:
+for example you can use main.py as a library and import predict function
+but in this case we named it yolo_detection
 
 ```python
 # Import the prediction function
